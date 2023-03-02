@@ -1,2 +1,1 @@
 # faqy
-Faqy
